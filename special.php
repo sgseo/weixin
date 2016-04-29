@@ -111,8 +111,17 @@ function talkfunc_stock($q){
     $msg ='[news]';
     $row = array();
     $row['picurl'] = 'http://phpdesk.sinaapp.com/report2/template/notice/imgs/sample.png';
-    $row['title'] = "xxx公司年报";
-    $row['description'] = "xxx公司年报";
+    $getNameUrl = 'http://phpdesk.sinaapp.com/report2/?notice/info&code=' .$q;
+    $name = file_get_contents($getNameUrl);
+    if(!$name) {
+      $name = $q .'公司';
+    }else{
+      if(strlen($name) > 7){
+        $name = substr($name,0,7) .'...';
+      }
+    }
+    $row['title'] = $name."2015年报";
+    $row['description'] = $name. "2015年报";
     $GLOBALS['msg_ext'][] = $row ;
     return $msg;
 }
