@@ -1,0 +1,16 @@
+<xml>
+								 <ToUserName><![CDATA[oPcagjnZZ2l6vOrblu1M2QhLaMJQ]]></ToUserName>
+								 <FromUserName><![CDATA[gh_5f14e9a94323]]></FromUserName>
+								 <CreateTime>1366298561</CreateTime>
+								 <MsgType><![CDATA[news]]></MsgType>
+								 <ArticleCount>1</ArticleCount>
+								 <Articles> 
+								 <item>
+								 <Title><![CDATA[ttttitle]]></Title> 
+								 <Description><![CDATA[ddddescription]]></Description>
+								 <PicUrl><![CDATA[http://img01.muzhiwan.com/2011/12/01/4ed72b288c2f5_sp.jpg]]></PicUrl>
+								 <Url><![CDATA[link]]></Url>
+								 </item></Articles>
+								 <FuncFlag>1</FuncFlag>
+								 </xml> 
+								

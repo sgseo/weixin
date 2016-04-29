@@ -1,0 +1,9 @@
+<xml><ToUserName><![CDATA[gh_2834941dd905]]></ToUserName>
+<FromUserName><![CDATA[om54buMbXFukhXkWUwMZ_Fb8C-Ro]]></FromUserName>
+<CreateTime>1403353901</CreateTime>
+<MsgType><![CDATA[voice]]></MsgType>
+<MediaId><![CDATA[2KKbL1Z1vTWUythvbLtw_V85iJwebiQzW2B3JMXCrrlHE7pdphUJUwXxz917yHEr]]></MediaId>
+<Format><![CDATA[amr]]></Format>
+<MsgId>6027359109509021696</MsgId>
+<Recognition><![CDATA[你好1234567]]></Recognition>
+</xml>

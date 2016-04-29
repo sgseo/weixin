@@ -1,0 +1,39 @@
+
+ask:hello
+ans:
+ask:hello
+ans:
+ask:hello
+ans:abcdeft
+ask:hello
+ans:
+你是首次登陆本功能，
+请<a href='?act=weixin.login&wxopenid=oPcagjpECN30MD-FjCKIbwYWgCjA&appid=1'>点这里登陆</a>/握手
+ask:hello
+ans:
+你是首次登陆本功能，
+请[a href='?act=weixin.login&wxopenid=oPcagjpECN30MD-FjCKIbwYWgCjA&appid=1']点这里登陆[/a]/握手
+ask:hello
+ans:
+你是首次登陆本功能，
+请<a href="?act=weixin.login&wxopenid=oPcagjpECN30MD-FjCKIbwYWgCjA&appid=1">点这里登陆</a>/握手
+ask:hello
+ans:vmean欢迎您的到来
+你是首次登陆本功能，
+请<a href="?act=weixin.login&wxopenid=oPcagjpECN30MD-FjCKIbwYWgCjA&appid=1">点这里登陆</a>/握手
+ask:hello
+ans:vmean欢迎您的到来
+你是首次登陆本功能，
+请<a href="http://biyike.scicompound.com/wxcms/?act=weixin.login&wxopenid=oPcagjpECN30MD-FjCKIbwYWgCjA&appid=1">点这里登陆</a>/握手
+ask:2
+ans:
+1. 月工资查询
+2. hello
+3. hello
+4. hello
+x. 退出
+ask:x
+ans:/再见已经退出本应用。
+(下次使用本应用无需登陆)
+ask:story
+ans:
